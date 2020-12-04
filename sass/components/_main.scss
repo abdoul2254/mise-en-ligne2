@@ -1,0 +1,31 @@
+main{
+
+    .we_are{
+        display: flex;
+        position: relative;
+          top: -300px;
+      }
+      
+
+
+}
+.Offer{
+  background-image: url("/IIM_Archi_Front_GulpSass-main/img/background-service.png");
+  display: flex;
+  position: relative;
+  .cor{
+    text-align: center;
+    margin: 30px; 
+
+  }
+  
+
+
+}
+
+  .price{
+    text-align: justify;
+    background: #7e76f9;
+    position: relative;
+    display: flex;
+  }

@@ -1,0 +1,100 @@
+header {
+  position: relative;
+}
+header .nav {
+  position: absolute;
+  margin-left: 400px;
+  color: white;
+}
+header .log {
+  position: relative;
+  display: flex;
+  left: 100px;
+  top: -700px;
+}
+header .wave {
+  position: relative;
+  left: 510px;
+  top: -120px;
+}
+header .Bussi {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: -610px;
+  justify-content: center;
+}
+
+.ph img {
+  display: flex;
+}
+
+.phone {
+  position: relative;
+  top: -780px;
+  left: 500px;
+  width: 621px;
+  height: 606px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main .we_are {
+  display: flex;
+  position: relative;
+  top: -300px;
+}
+
+.Offer {
+  background-image: url("/IIM_Archi_Front_GulpSass-main/img/background-service.png");
+  display: flex;
+  position: relative;
+}
+.Offer .cor {
+  text-align: center;
+  margin: 30px;
+}
+
+.price {
+  text-align: justify;
+  background: #7e76f9;
+  position: relative;
+  display: flex;
+}
+
+main .Offer {
+  background-image: url("/IIM_Archi_Front_GulpSass-main/img/background-service.png");
+}
+
+footer img {
+  position: absolute;
+  top: 500px;
+  left: 0px;
+  width: 1350px;
+  height: 500px;
+}
+
+button {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: blue;
+}
+
+footer {
+  position: relative;
+}
+footer div {
+  color: white;
+}
+footer div div .foot1 {
+  left: 300px;
+  top: 400px;
+}
+
+/*# sourceMappingURL=import.css.map */
